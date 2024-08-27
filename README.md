@@ -10,26 +10,25 @@ Technologies Used
 HTML5 , CSS3 & JS: For building the structure and styling the app.
 JavaScript: For handling user interactions and API requests.
 OpenWeather API: To fetch real-time weather data.
+<br>
+
 How to Use
-Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/weather-app.git
-Navigate to the project directory:
+1.Clone the repository:
+git clone https://github.com/manikanta201104/Weather-App.git
 
-bash
-Copy code
+
+2.Navigate to the project directory:
 cd weather-app
-Open index.html in your browser to start using the app.
+
+
+3.Open index.html in your browser to start using the app.
 
 API Key
+
 This app uses the OpenWeather API, which requires an API key to fetch data. Follow these steps to get your API key:
 
-Sign up for a free API key at OpenWeather.
-Replace the YOUR_API_KEY in the JavaScript file with your actual API key.
-Screenshots
-Add screenshots of your app here to showcase its design and functionality.
+1.Sign up for a free API key at OpenWeather.
+2.Replace the YOUR_API_KEY in the JavaScript file with your actual API key.
 
-License
-This project is open-source and available under the MIT License.
+
