@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+    background-color: #9cd8e7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+}
+
+#app {
+    height: 40rem;
+    width: 25rem;
+    background-color: #fff;
+    border-radius: 1.5rem;
+    text-align: center;
+    padding-top: 3rem;
+    background-image: url(Wallpaper.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.search-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1rem;
+    gap: 0.5rem;
+}
+
+#search {
+    height: 2rem;
+    width: 2rem;
+    background-color: #fff;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+#search:hover {
+    background-color: #ddd;
+    transform: scale(1.1);
+}
+
+.fa-solid {
+    font-size: 1.2rem;
+    color: #000;
+}
+
+input {
+    height: 2rem;
+    width: 60%;
+    border: none;
+    border-radius: 10rem;
+    padding: 0 1rem;
+    font-size: 1rem;
+    transition: box-shadow 0.3s, border 0.3s;
+}
+
+input:hover, input:focus {
+    border: 1px solid #9cd8e7;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    outline: none;
+}
+
+.weather-icon {
+    width: 13rem;
+    font-weight: 500;
+    margin: 1rem 0;
+}
+
+.weather h1, .weather h2 {
+    font-size: 3rem;
+    font-weight: 900;
+    margin: 0.5rem 0;
+}
+
+.details {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2rem;
+    padding: 0 1rem 1rem;
+    font-weight: 700;
+    padding: 0 20px;
+}
+.col {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.col img{
+    width: 40px;
+    margin-right: 10px;
+}
+.humidity .wind{
+    font-size: 28px;
+    margin-top: -6px;
+}
+.weather{
+    display: none;
+}
+.details{
+    display: none;
+}
