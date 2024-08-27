@@ -1,12 +1,17 @@
 # Weather-App
 Weather App 🌦️ This is a simple yet powerful Weather App built using the OpenWeather API. The app provides real-time weather information for any city worldwide, including temperature, humidity, wind speed, and weather conditions.
 
-Features
-Real-time Weather Data: Get up-to-date weather information for any city around the globe.
-Search Functionality: Easily search for weather information by entering a city name.
-Detailed Weather Information: View detailed weather data including temperature, humidity, wind speed, and weather conditions.
-Responsive Design: The app is fully responsive and works on all devices, from mobile phones to desktop computers.
-Technologies Used
+Features <br>
+-->Real-time Weather Data: Get up-to-date weather information for any city around the globe.
+
+-->Search Functionality: Easily search for weather information by entering a city name.
+
+-->Detailed Weather Information: View detailed weather data including temperature, humidity, wind speed, and weather conditions.
+
+-->Responsive Design: The app is fully responsive and works on all devices, from mobile phones to desktop computers.
+
+
+Technologies Used:
 HTML5 , CSS3 & JS: For building the structure and styling the app.
 JavaScript: For handling user interactions and API requests.
 OpenWeather API: To fetch real-time weather data.
