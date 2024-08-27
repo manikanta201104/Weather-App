@@ -19,17 +19,19 @@ OpenWeather API: To fetch real-time weather data.
 
 **How to Use**
 
-**1.Clone the repository:**
-link:git clone https://github.com/manikanta201104/Weather-App.git
+**1.Clone the repository:** <br>
+
+git clone https://github.com/manikanta201104/Weather-App.git
 
 
-2.Navigate to the project directory:
+**2.Navigate to the project directory:** <br>
+
 cd weather-app
 
 
-3.Open index.html in your browser to start using the app.
+3.Open index.html in your browser to start using the app. <br>
 
-API Key
+**API Key**
 
 This app uses the OpenWeather API, which requires an API key to fetch data. Follow these steps to get your API key:
 
