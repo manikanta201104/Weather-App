@@ -1,2 +1,35 @@
 # Weather-App
 Weather App 🌦️ This is a simple yet powerful Weather App built using the OpenWeather API. The app provides real-time weather information for any city worldwide, including temperature, humidity, wind speed, and weather conditions.
+
+Features
+Real-time Weather Data: Get up-to-date weather information for any city around the globe.
+Search Functionality: Easily search for weather information by entering a city name.
+Detailed Weather Information: View detailed weather data including temperature, humidity, wind speed, and weather conditions.
+Responsive Design: The app is fully responsive and works on all devices, from mobile phones to desktop computers.
+Technologies Used
+HTML5 , CSS3 & JS: For building the structure and styling the app.
+JavaScript: For handling user interactions and API requests.
+OpenWeather API: To fetch real-time weather data.
+How to Use
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/yourusername/weather-app.git
+Navigate to the project directory:
+
+bash
+Copy code
+cd weather-app
+Open index.html in your browser to start using the app.
+
+API Key
+This app uses the OpenWeather API, which requires an API key to fetch data. Follow these steps to get your API key:
+
+Sign up for a free API key at OpenWeather.
+Replace the YOUR_API_KEY in the JavaScript file with your actual API key.
+Screenshots
+Add screenshots of your app here to showcase its design and functionality.
+
+License
+This project is open-source and available under the MIT License.
