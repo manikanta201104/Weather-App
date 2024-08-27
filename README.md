@@ -2,25 +2,25 @@
 Weather App 🌦️ This is a simple yet powerful Weather App built using the OpenWeather API. The app provides real-time weather information for any city worldwide, including temperature, humidity, wind speed, and weather conditions.
 
 Features <br>
--->Real-time Weather Data: Get up-to-date weather information for any city around the globe.
+-->**Real-time Weather Data:** Get up-to-date weather information for any city around the globe.
 
--->Search Functionality: Easily search for weather information by entering a city name.
+-->**Search Functionality:** Easily search for weather information by entering a city name.
 
--->Detailed Weather Information: View detailed weather data including temperature, humidity, wind speed, and weather conditions.
+-->**Detailed Weather Information:** View detailed weather data including temperature, humidity, wind speed, and weather conditions.
 
--->Responsive Design: The app is fully responsive and works on all devices, from mobile phones to desktop computers.
+-->**Responsive Design:** The app is fully responsive and works on all devices, from mobile phones to desktop computers.
 
 
-Technologies Used:
+**Technologies Used:**
 HTML5 , CSS3 & JS: For building the structure and styling the app.
 JavaScript: For handling user interactions and API requests.
 OpenWeather API: To fetch real-time weather data.
 <br>
 
-How to Use
+**How to Use**
 
-1.Clone the repository:
-git clone https://github.com/manikanta201104/Weather-App.git
+**1.Clone the repository:**
+link:git clone https://github.com/manikanta201104/Weather-App.git
 
 
 2.Navigate to the project directory:
